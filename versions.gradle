@@ -2,4 +2,5 @@ def LibVersions = [:]
 LibVersions.Navigation = '2.3.3'
 LibVersions.Junit = '4.+'
 LibVersions.Kotlin = '1.4.20'
+LibVersions.MaterialComponents = '1.2.1'
 ext.LibVersions = LibVersions
