@@ -1,0 +1,5 @@
+def LibVersions = [:]
+LibVersions.Navigation = '2.3.3'
+LibVersions.Junit = '4.+'
+LibVersions.Kotlin = '1.4.20'
+ext.LibVersions = LibVersions
