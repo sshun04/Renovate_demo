@@ -47,6 +47,6 @@ dependencies {
 
     def MaterialComponentsVersion = '1.2.1'
     implementation "com.google.android.material:material:$MaterialComponentsVersion"
-    implementation "com.github.bumptech.glide:glide:$LibVersions.Glide"
+    implementation "com.github.bumptech.glide:glide:$Glide"
     implementation "com.squareup.retrofit2:retrofit:$RetrofitVersion"
 }
